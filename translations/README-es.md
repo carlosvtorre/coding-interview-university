@@ -80,7 +80,7 @@ Si desea ser un Ingeniero de Escalabilidad/Seguridad o un Ingeniero de Sistemas,
 
 ## Tabla de contenido
 
-- [X][¿Qué es esto?](#qué-es-esto)
+- [X] /[¿Qué es esto?](#qué-es-esto)
 - [¿Por qué usarlo?](#por-qué-usarlo)
 - [¿Cómo usarlo?](#como-usarlo)
 - [No sienta que no es lo suficientemente listo](#no-sienta--que-no-es-lo-suficientemente-listo)
